@@ -3,6 +3,6 @@ import {Global, css} from '@emotion/core';
 
 const Layout = ({ children }) => (
     <>
-        <Global styles={css``} />
+        <Global styles={css` `} />
     </>
 )
